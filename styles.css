@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+div{
+	background-color: seagreen;
+}
+table {
+	background-color: seagreen;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
